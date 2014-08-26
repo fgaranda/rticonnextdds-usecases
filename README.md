@@ -33,4 +33,3 @@ open standard for messaging that supports the unique needs of both enterprise
 and real-time systems. Its open interfaces and advanced integration 
 capabilities slash costs across a system's lifecycle, from initial development 
 and integration through on-going maintenance and upgrades.
->>>>>>> 45678dc1360bca0a93f090c340e78e358edacb0b
