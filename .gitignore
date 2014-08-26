@@ -1,0 +1,44 @@
+# Folders #
+###########
+obj/
+objs/
+Debug/
+Release/
+ipch/
+Generated/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.exe
+
+# Project temp files #
+######################
+*.suo
+*.sdf
+*.opensdf
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.cvsignore
