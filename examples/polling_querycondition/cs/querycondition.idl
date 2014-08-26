@@ -1,4 +1,0 @@
-struct querycondition {
-	string<255> id; //@key
-	long value;
-};

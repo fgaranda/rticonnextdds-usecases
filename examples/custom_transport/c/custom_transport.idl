@@ -1,4 +1,0 @@
-struct CustomTransport {
-    string<64> str_value;
-    long long_value;
-};

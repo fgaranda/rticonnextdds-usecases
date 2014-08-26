@@ -1,4 +1,0 @@
-struct profiles {
-  string<100> profile_name; //@key
-  long x;
-};

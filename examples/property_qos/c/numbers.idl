@@ -1,4 +1,0 @@
-struct numbers{
-	long number;
-	float halfNumber;
-}; 

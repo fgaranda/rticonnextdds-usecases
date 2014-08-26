@@ -1,3 +1,0 @@
-struct waitset_statuscond {
-  short x;
-};
